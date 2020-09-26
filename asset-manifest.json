@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.d4d20da3.chunk.css",
-    "main.js": "/static/js/main.04548627.chunk.js",
-    "main.js.map": "/static/js/main.04548627.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.390b885d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.390b885d.js.map",
-    "static/js/2.abbff9f0.chunk.js": "/static/js/2.abbff9f0.chunk.js",
-    "static/js/2.abbff9f0.chunk.js.map": "/static/js/2.abbff9f0.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f0a9262051b2f314ce766985cca98e7e.js": "/precache-manifest.f0a9262051b2f314ce766985cca98e7e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d4d20da3.chunk.css.map": "/static/css/main.d4d20da3.chunk.css.map",
-    "static/js/2.abbff9f0.chunk.js.LICENSE.txt": "/static/js/2.abbff9f0.chunk.js.LICENSE.txt",
-    "static/media/fortune_app.gif": "/static/media/fortune_app.30702a5e.gif",
-    "static/media/mailbox.851a4e2a.svg": "/static/media/mailbox.851a4e2a.svg",
-    "static/media/photo.jpg": "/static/media/photo.f4cab859.jpg",
-    "static/media/welcome.dcafca7b.svg": "/static/media/welcome.dcafca7b.svg"
+    "main.css": "/lottiely.github.io/static/css/main.d4d20da3.chunk.css",
+    "main.js": "/lottiely.github.io/static/js/main.25825e60.chunk.js",
+    "main.js.map": "/lottiely.github.io/static/js/main.25825e60.chunk.js.map",
+    "runtime-main.js": "/lottiely.github.io/static/js/runtime-main.13e540d3.js",
+    "runtime-main.js.map": "/lottiely.github.io/static/js/runtime-main.13e540d3.js.map",
+    "static/js/2.abbff9f0.chunk.js": "/lottiely.github.io/static/js/2.abbff9f0.chunk.js",
+    "static/js/2.abbff9f0.chunk.js.map": "/lottiely.github.io/static/js/2.abbff9f0.chunk.js.map",
+    "index.html": "/lottiely.github.io/index.html",
+    "precache-manifest.d3123aa700c7672319914637b6a37f25.js": "/lottiely.github.io/precache-manifest.d3123aa700c7672319914637b6a37f25.js",
+    "service-worker.js": "/lottiely.github.io/service-worker.js",
+    "static/css/main.d4d20da3.chunk.css.map": "/lottiely.github.io/static/css/main.d4d20da3.chunk.css.map",
+    "static/js/2.abbff9f0.chunk.js.LICENSE.txt": "/lottiely.github.io/static/js/2.abbff9f0.chunk.js.LICENSE.txt",
+    "static/media/fortune_app.gif": "/lottiely.github.io/static/media/fortune_app.30702a5e.gif",
+    "static/media/mailbox.851a4e2a.svg": "/lottiely.github.io/static/media/mailbox.851a4e2a.svg",
+    "static/media/photo.jpg": "/lottiely.github.io/static/media/photo.f4cab859.jpg",
+    "static/media/welcome.dcafca7b.svg": "/lottiely.github.io/static/media/welcome.dcafca7b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.390b885d.js",
+    "static/js/runtime-main.13e540d3.js",
     "static/js/2.abbff9f0.chunk.js",
     "static/css/main.d4d20da3.chunk.css",
-    "static/js/main.04548627.chunk.js"
+    "static/js/main.25825e60.chunk.js"
   ]
 }
